@@ -70,9 +70,7 @@ body {
 
 }
 
-.circle p {
-    font-size: 18px;
-}
+
 
 .result-title {
     padding: 20px;
@@ -93,6 +91,7 @@ body {
 }
 
 .big-text {
+    
     color: white;
     font-weight: bold;
     font-size: 3rem;
@@ -100,6 +99,7 @@ body {
 
 .big-text-desc {
     color: #E1D7C6;
+    font-size: 18px;
 }
 
 .great {
